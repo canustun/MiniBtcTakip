@@ -1,0 +1,2 @@
+# MiniBtcTakip
+Mini Bitcoin Takip
